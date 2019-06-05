@@ -58,9 +58,9 @@ Block One
  
  <strong>The if Statement</strong>
  ```
- if \<condition1\> :
+ if condition1 :
      true-code
- elif \<condition2\>:
+ elif condition2 :
      true-code
  else:
      false-code
