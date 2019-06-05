@@ -16,6 +16,7 @@ Here are SOME Python Notes for Beginners!!
 
 <strong>Strings and Variables</strong>
  - Built-in functions
+          <br/>
           <em>print()</em> - takes in a value, display
           <br/>
           <em>len()</em> - takes in a string in the braket, return the length of an item
