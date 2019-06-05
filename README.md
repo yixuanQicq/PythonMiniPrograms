@@ -7,9 +7,10 @@ email: yixuan99316@gmail.com
 Here is SOME Python Notes for Beginners!!
 
 <em>#</em> - single-line comment
+<br/>
 <em>""" """"</em> - multi-line comment
 
-<strong>Variabales</strongt>
+<strong>Variabales</strong>
  - variable name must start sith a letter, may contain numbers and underscores
  - syntax: <em>variable_name = value</em>
 
