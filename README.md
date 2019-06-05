@@ -59,14 +59,70 @@ Block One
  <strong>The if Statement</strong>
  ```
  if condition1 :
-     true-code
+     #true-code
  elif condition2 :
-     true-code
+     #true-code
  else:
-     false-code
+     #false-code
 ```
 
+<strong>Functions</strong>
+```
+def function_name():
+    #code block
+```
+Function Definition Examples: 
+```
+def say_hi():
+    print('Hi!')
 
+def say_hi2(name):
+    print('Hi {}!'.format(name))
+    
+def say_hi3(first,last):
+    print('Hi {} {}!'.format(first,last))
+```
+Calling a function:
+```
+say_hi()
+say_hi2('Jason')
+say_hi3('Jane','Doe')
+```
+ - A function has to be define before it is called
+ 
+ <strong>List</strong>
+ ```
+ #create list with items in it
+ list_name = [item_1,item_2,item_N]
+ 
+ #create empty list
+ list_name = []
+ 
+ #get item from index
+ list_name[index]
+ 
+ #get item from negative index : -1 means get the last item from the list
+ list_name[-1] 
+ 
+ #set value by index
+ list_name[index] = value
+ 
+ #add an item to the back of the list
+ list_name.append(item)
+ 
+ #add multiple items to the back of the list
+ #extend method takes in an list as parameter
+ list_name.extend([item_1, item_2])
+ 
+ #insert item at index, all existing item will be shift back
+ list_name.insert(index, item)
+ 
+ 
+ ```
+ 
+ 
+ 
+ 
      
  
    
