@@ -15,7 +15,7 @@ Here are SOME Python Notes for Beginners!!
  - syntax: <em>variable_name = value</em>
 
 <strong>Strings and Variables</strong>
- - Built-in functions
+ - Built-in functions:
           <br/>
           <em>print()</em> - takes in a value, display
           <br/>
