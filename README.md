@@ -2,6 +2,7 @@
 This repository is used to store some fun and easy mini python programs for beginners to explore, practice and have some fun.
 Feel free to email me for any questions you encountered!!
  <br/>
+  <br/>
 email: yixuan99316@gmail.com
 </p>
 
